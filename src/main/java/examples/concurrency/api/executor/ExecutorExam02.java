@@ -30,6 +30,7 @@ public class ExecutorExam02 {
                 }
                 break;
             }
+            // 다음 작업이 있을때 isDone
         }
 
         executorService.shutdown();
